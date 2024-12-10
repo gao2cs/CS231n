@@ -1,2 +1,2 @@
 # CS231n
-Finsihed... except LSTM & Self-Supervised Learning.
+Finished... except LSTM & Self-Supervised Learning.
